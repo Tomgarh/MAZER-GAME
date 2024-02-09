@@ -15,13 +15,13 @@ My main reason for creating the game was to try to learn more about object-orien
 
 1. Clone the repository
 
-    `git clone git@github.com:Tomgarh/Mazer.git`
+    `https://github.com/Tomgarh/MAZER-GAME.git`
 
-2. Install the requirements
+3. Install the requirements
 
     `pip install -r requirements.txt`
 
-3. Run the main file
+4. Run the main file
 
     `python3 main.py`
 
