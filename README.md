@@ -25,5 +25,5 @@ My main reason for creating the game was to try to learn more about object-orien
 
     `python3 main.py`
 
-![Mazer](https://github.com/MfonUdoh/Mazer/assets/48888128/cbab65ae-1b89-4618-aa33-0643e792368a)
+
 
