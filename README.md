@@ -17,11 +17,11 @@ My main reason for creating the game was to try to learn more about object-orien
 
     `https://github.com/Tomgarh/MAZER-GAME.git`
 
-3. Install the requirements
+2. Install the requirements
 
     `pip install -r requirements.txt`
 
-4. Run the main file
+3. Run the main file
 
     `python3 main.py`
 
