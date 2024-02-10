@@ -15,7 +15,7 @@ My main reason for creating the game was to try to learn more about object-orien
 
 1. Clone the repository
 
-    `https://github.com/Tomgarh/MAZER-GAME.gt`
+    `https://github.com/Tomgarh/MAZER-GAME.git`
 
 3. Install the requirements
 
