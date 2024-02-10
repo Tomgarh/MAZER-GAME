@@ -24,6 +24,3 @@ My main reason for creating the game was to try to learn more about object-orien
 3. Run the main file
 
     `python3 main.py`
-
-
-
